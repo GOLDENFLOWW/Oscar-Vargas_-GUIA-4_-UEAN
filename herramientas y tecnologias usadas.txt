@@ -1,0 +1,11 @@
+Herramientas y Tecnologías del Proyecto 
+-------------------------------------------------------------
+- IDE: NetBeans
+
+- Lenguaje de Programación: Java
+
+- Base de datos: MySQL, XAMPP se utilizó como entorno de desarrollo local para gestionar y administrar la base de datos MySQL
+
+- Configuración de la Base de Datos: 
+Se creó una base de datos llamada "proyecto" en MySQL para almacenar los datos del proyecto. 
+Driver MySQL: Se utilizó el driver JDBC de MySQL para establecer la conexión entre la aplicación Java y la base de datos. 
